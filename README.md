@@ -20,7 +20,7 @@ See (Rawlings et al., 2022, p. 536)
 # MPC Benchmarking
 
 ## Tasks
-- Definition common propertiers of MPC @koehrer @grobbel
+- Definition of common properties of MPC
   - From literature collection
 - Overview of existing MPC approaches/methods
   - See mind map
@@ -32,7 +32,7 @@ See (Rawlings et al., 2022, p. 536)
   - Collect Literature/Websites
   - What are possible criteria of comparison?
 - Analysis (implementation and benchmarking) of selcted MPC approaches
-- List of MPC experts and organisations @grobbel
+- List of MPC experts and organizations 
 
 ## Ideas
 
@@ -60,8 +60,8 @@ See (Rawlings et al., 2022, p. 536)
   - performance
     - calculation time
     - numerical precision of the soultion
-- To which class do our reserach problems belong?
-- Which of solution approaches/methods are commonly used for our reserach problem class?
+- To which class do our research problems belong?
+- Which solution approaches/methods are commonly used for our research problem class?
 - Compare own taxonomy with
   - Slides 2024-04-26-MPC-Overview-Ye.pdf
 
@@ -69,7 +69,7 @@ See (Rawlings et al., 2022, p. 536)
 
 ### Ideas for Comparison
 
-- What arepossible criteria of comparison?
+- What are possible criteria of comparison?
   - approach/method used/supported by solver
 - license
 - convergence
@@ -77,6 +77,6 @@ See (Rawlings et al., 2022, p. 536)
   - global
 - performance
   - calculation time
-  - numerical precision of the soultion
+  - numerical precision of the solution
   - programming language interface
 
