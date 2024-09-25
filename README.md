@@ -7,13 +7,15 @@
 
 See (Rawlings et al., 2022, p. 543)
 
-![image](/uploads/aa733567687ddead8058f5de43df280b/image.png)
+![image](https://github.com/user-attachments/assets/b2ae8eed-a624-47b3-9f0f-327c4ff05f1d)
+
 
 ### Discrete Time Optimal Control Problem (DTOCP)
 
 See (Rawlings et al., 2022, p. 536)
 
-![image](/uploads/ed24e26679fd988d69cd71fba11c84cf/image.png)
+![image](https://github.com/user-attachments/assets/504a5cd1-90b4-4798-89e7-a915a7a7caad)
+
 
 # MPC Benchmarking
 
