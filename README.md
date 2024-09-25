@@ -79,4 +79,12 @@ See (Rawlings et al., 2022, p. 536)
   - calculation time
   - numerical precision of the solution
   - programming language interface
+  - 
+### Academic Benchmarks
+- CasADi example pack https://github.com/casadi/casadi/releases/download/3.6.4/casadi-example_pack-v3.6.4.zip
+- own mass spring damper example https://essgitlab.fzi.de/ess-cit/mpc-exploration/-/blob/main/mass-spring-damper-example.py?ref_type=heads
+
+
+### Common Interface for Casadi / ACADOS
+- Can we use the same interface for solving our optimization problems? (e.g. ACADOS only takes functions depending on x,u)
 
