@@ -1,4 +1,4 @@
-## How to convert the .mod file into corresponding .nl file in mod2nl.py
+## How to convert the _.mod_ file into the corresponding _.nl_ file in mod2nl.py
 ### Steps
 1. Set the .mod files directory
 e.g mod_dir = "D:\AMPL_new\IPOPT\model_file\model file"
