@@ -1,4 +1,4 @@
-# Definitions
+# Model Predictive Control Exploration
 
 ## Optimal Control Problems
 
