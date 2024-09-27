@@ -19,7 +19,7 @@ See (Rawlings et al., 2022, p. 536)
 # MPC Benchmarking
 
 ## Tasks
-- Definition common propertiers of MPC @koehrer @grobbel
+- Definition of common properties of MPC
   - From literature collection
 - Overview of existing MPC approaches/methods
   - See mind map
@@ -30,8 +30,8 @@ See (Rawlings et al., 2022, p. 536)
 - Overview of existing benchmarks of MPCs
   - Collect Literature/Websites
   - What are possible criteria of comparison?
-- Analysis (implementation and benchmarking) of selcted MPC approaches
-- List of MPC experts and organisations @grobbel
+- Analysis (implementation and benchmarking) of selected MPC approaches
+- List of MPC experts and organisations 
 
 ## Ideas
 
@@ -45,22 +45,22 @@ See (Rawlings et al., 2022, p. 536)
 ### New Solution Approaches/Methods
 - Particle swarm
 - Multi-start
-- Forward backward sweep with costates (probably indirect method) (probably differential dynamic programming)
-- Primal dual problems/feasibility
+- Forward-backward sweep with costates (probably indirect method) (probably differential dynamic programming)
+- Primal-dual problems/feasibility
 
 ### Ideas for a Taxonomy
 - Which problem classes can be solved by MPCs?
 - How are these solution approaches/methods defined?
 - What are the differences between them?
-- What arepossible criteria of comparison?
+- What are possible criteria of comparison?
   - convergence
     - local
     - global
   - performance
     - calculation time
-    - numerical precision of the soultion
-- To which class do our reserach problems belong?
-- Which of solution approaches/methods are commonly used for our reserach problem class?
+    - numerical precision of the solution
+- To which class do our research problems belong?
+- Which solution approaches/methods are commonly used for our research problem class?
 - Compare own taxonomy with
   - Slides 2024-04-26-MPC-Overview-Ye.pdf
 
