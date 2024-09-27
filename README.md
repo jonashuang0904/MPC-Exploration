@@ -1,5 +1,5 @@
 # Model Predictive Control Exploration
-
+This project aims to give an easily accessible overview of the state of the art in numerical online MPC approaches. The motivation is that we want a deeper understanding of MPC performance related to our research topics.
 ## Optimal Control Problems
 
 ### Continuous Time Optimal Control Problem (CTOCP)
